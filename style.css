@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --bg-lightBlue : #edf2f4;
+    --darkBlue : #2b2d42;
+    --lightBlue : #8d99ae;
+    --lightRed : #ef233c;
+    --darkRed : #d90429;
+}
+
+
